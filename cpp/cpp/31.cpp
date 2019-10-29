@@ -6,8 +6,8 @@ int main()
 {
 	char name[50];
 
-	cout << "请输入您的名称： ";
+	cout << "please enter your name: ";
 	cin >> name;
-	cout << "您的名称是： " << name << endl;
+	cout << "your name is: " << name << endl;
 
 }
