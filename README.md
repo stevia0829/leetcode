@@ -1,2 +1,3 @@
 # leetcode
-## 使用jupyter以及vs 2017 编写
+## 使用jupyter
+## 后续c++在另一个文件夹
